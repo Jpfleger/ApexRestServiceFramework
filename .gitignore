@@ -1,0 +1,10 @@
+# JetBrains IDE
+.idea/
+
+# Local environment variables
+.env
+
+# Added by Illuminated Cloud
+/IlluminatedCloud/
+/out/
+target/
